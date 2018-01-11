@@ -2,7 +2,7 @@
 
 [![https://gyazo.com/b209037ac23ee815069ca28214db0669](https://i.gyazo.com/b209037ac23ee815069ca28214db0669.png)](https://gyazo.com/b209037ac23ee815069ca28214db0669)
 
-This software visualizes CIFAR-10 image files label prediction results by ResNet model or CNN model.
+This software visualizes CIFAR-10 image files label prediction results by a ResNet model or a CNN model.
 
 ## How to use
 
