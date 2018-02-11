@@ -1,8 +1,12 @@
 ﻿# CIFAR-10 Prediction In Keras
 
+[![https://gyazo.com/308fbe9513a88fc7e943b50f8ecf0598](https://i.gyazo.com/308fbe9513a88fc7e943b50f8ecf0598.gif)](https://gyazo.com/308fbe9513a88fc7e943b50f8ecf0598)
+
+'keras_cifar10_prediction.ipynb' predict a webcam photo by a neaural network that is trained by CIFAR-10 datas.  
+
 [![https://gyazo.com/b209037ac23ee815069ca28214db0669](https://i.gyazo.com/b209037ac23ee815069ca28214db0669.png)](https://gyazo.com/b209037ac23ee815069ca28214db0669)
 
-This software visualizes CIFAR-10 image files label prediction results by a ResNet model or a CNN model.  
+'keras_cifar10_prediction.ipynb' visualizes CIFAR-10 image files label prediction results by a ResNet model or a CNN model. 
 A fail prediction is displayed red text. left side text is a fail prediction, right side is a correct label.
 
 ## How to use
